@@ -1,0 +1,12 @@
+{
+    "name": "marcofugaro.brackets.ordered.ctrl.tab",
+    "title": "Ordered Ctrl+TAB Navigation",
+    "description": "Navigate tabs with the  Ctrl+(Shift)+TAB shortcut in the non-MRU way",
+    "homepage": "https://github.com/marcofugaro/brackets-ordered-ctrl-tab",
+    "version": "0.0.1",
+    "author": "Marco Fugaro",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.4"
+    }
+}
